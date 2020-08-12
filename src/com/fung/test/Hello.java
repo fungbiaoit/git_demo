@@ -6,5 +6,6 @@ public class Hello {
         System.out.println("hello git");
 
         int a = 10;
+        int c = 30;
     }
 }
